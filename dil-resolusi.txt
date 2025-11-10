@@ -3,4 +3,4 @@ Dil RESOLUSI
 -buat web untuk portfolio 
 -blh guna dua bahasa
 -blh guna javascript
--blh guna python
+-blh guna c++
