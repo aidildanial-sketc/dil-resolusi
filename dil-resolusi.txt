@@ -2,3 +2,5 @@ Dil RESOLUSI
 -blh buat project guna laravel 
 -buat web untuk portfolio 
 -blh guna dua bahasa
+-blh guna javascript
+-blh guna python
