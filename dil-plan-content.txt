@@ -4,3 +4,5 @@ Plan content
 -javascript
 -node.js
 -n8n
+-git
+-laravel
