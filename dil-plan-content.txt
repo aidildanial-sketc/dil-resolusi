@@ -7,3 +7,4 @@ Plan content
 -git
 -laravel
 -configure cisco hardware
+- kali linux 
