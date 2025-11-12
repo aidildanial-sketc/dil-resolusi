@@ -6,5 +6,6 @@ Plan content
 -n8n
 -git
 -laravel
--react
-vue
+-configure cisco hardware
+- kali linux 
+-Vue
