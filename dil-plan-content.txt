@@ -6,3 +6,4 @@ Plan content
 -n8n
 -git
 -laravel
+-configure cisco hardware
