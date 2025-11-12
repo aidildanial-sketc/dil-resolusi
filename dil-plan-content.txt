@@ -8,3 +8,4 @@ Plan content
 -laravel
 -configure cisco hardware
 - kali linux 
+-Vue
